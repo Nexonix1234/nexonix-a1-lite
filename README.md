@@ -1,3 +1,4 @@
+
 # Nexonix A-1 Lite CPU
 
 A 32-bit 5-stage pipelined RISC CPU designed for learning and research.
@@ -25,6 +26,11 @@ A 32-bit 5-stage pipelined RISC CPU designed for learning and research.
 •⁠  ⁠Cache integration
 •⁠  ⁠AI accelerator module
 •⁠  ⁠Custom instruction set
+<img width="1254" height="1254" alt="docs:architecture" src="https://github.com/user-attachments/assets/fcfa7d97-ff9d-4f7c-b800-37a46ddae147" />
+## 🧠 Architecture Diagram
 
+<p align="center">
+  <img src="docs/architecture.png" width="100%">
+</p>
 ## 👨‍💻 Author
 Nexonix Semiconductor
