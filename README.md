@@ -26,7 +26,8 @@ A 32-bit 5-stage pipelined RISC CPU designed for learning and research.
 •⁠  ⁠Cache integration
 •⁠  ⁠AI accelerator module
 •⁠  ⁠Custom instruction set
-<img width="1254" height="1254" alt="docs:architecture" src="https://github.com/user-attachments/assets/fcfa7d97-ff9d-4f7c-b800-37a46ddae147" />
+<img width="1536" height="1024" alt="docs:architecture" src="https://github.com/user-attachments/assets/c4797877-e547-4a05-aa1d-b6bff75bb5f1" />
+
 ## 🧠 Architecture Diagram
 
 <p align="center">
